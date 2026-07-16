@@ -1,0 +1,56 @@
+=*************************************************=
+   CABLE SIZING AND VOLTAGE DROP ESTIMATOR SYSTEM
+===================================================
+   REPORT GENERATED ON: Jul 16 2026 18:55:10
+=*************************************************=
+
+===========================================================
+LOAD: Workshop lighting
+-----------------------------------------------------------
+Load Current:           3.48 A
+Approximate Voltage Drop: 1.74 V
+Recommended Cable:      1.5 mm2 lighting cable
+Advisory:               Suitable for small lighting loads
+Voltage Drop Status:    Acceptable Voltage Drop
+===========================================================
+
+===========================================================
+LOAD: Socket load
+-----------------------------------------------------------
+Load Current:           8.70 A
+Approximate Voltage Drop: 2.61 V
+Recommended Cable:      2.5 mm2 socket/light duty cable
+Advisory:               Suitable for light socket or small appliance loads
+Voltage Drop Status:    Acceptable Voltage Drop
+===========================================================
+
+===========================================================
+LOAD: Water heater
+-----------------------------------------------------------
+Load Current:           15.22 A
+Approximate Voltage Drop: 9.13 V
+Recommended Cable:      4.0 mm2 medium load cable
+Advisory:               Suitable for moderate appliance loads
+Voltage Drop Status:    Acceptable Voltage Drop
+===========================================================
+
+===========================================================
+LOAD: Industrial motor
+-----------------------------------------------------------
+Load Current:           34.78 A
+Approximate Voltage Drop: 27.83 V
+Recommended Cable:      Special design required
+Advisory:               Consult a qualified electrical engineer or standard cable table
+Voltage Drop Status:    High Voltage Drop
+===========================================================
+
+===========================================================
+LOAD: ooker
+-----------------------------------------------------------
+Load Current:           3.48 A
+Approximate Voltage Drop: 1.74 V
+Recommended Cable:      1.5 mm2 lighting cable
+Advisory:               Suitable for small lighting loads
+Voltage Drop Status:    Acceptable Voltage Drop
+===========================================================
+
